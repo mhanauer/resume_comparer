@@ -40,7 +40,7 @@ def main():
             if word not in cv_word_freq:
                 missing_keywords.append(word)
 
-        st.write(f"Similarity Score: {similarity_score:.2f}")
+        st.write(f"Similarity Score: {float(similarity_score):.2f}")
         st.write(f"Missing Keywords: {', '.join(missing_keywords)}")
 
 if __name__ == "__main__":
