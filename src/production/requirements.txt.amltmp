@@ -8,4 +8,4 @@ nltk==3.6.5
 sentence-transformers==2.1.0
 python-docx==0.8.11
 streamlit==1.21.0
-internal_work==1.5
+git+https://github.com/mhanauer/internal_work.git@3ffebab4e719aacc13bb3a49ca89d64c2b47a96c#egg=internal_work&subdirectory=internal_work
