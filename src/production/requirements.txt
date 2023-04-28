@@ -9,4 +9,4 @@ sentence-transformers==2.2.2
 python-docx==0.8.11
 streamlit==1.21.0
 huggingface-hub==0.11.1
-git+https://github.com/mhanauer/internal_work.git@18116e3ed5bc23b896a71af9f88a2caea557ba9f#egg=internal_work&subdirectory=internal_work
+git+https://github.com/mhanauer/internal_work.git@2476e8a7096cfcb22da5190416d759b3afb8fd87#egg=internal_work&subdirectory=internal_work
