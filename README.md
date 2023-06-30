@@ -1,6 +1,8 @@
 # Resume Similarity Checker
 This Python application is a tool to compare a resume to a job description and provides insights into how well a resume matches a job description. It calculates a similarity score, identifies missing keywords, and can be very helpful in optimizing a resume according to a particular job role.
 
+Here is a link to the application: https://mhanauer-resume-compa-srcproductionresume-similarity-app-m467hi.streamlit.app/
+
 # Requirements
 Python 3.6 and above
 Streamlit
