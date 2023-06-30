@@ -1,5 +1,3 @@
-
-
 # Resume Similarity Checker
 This Python application is a tool to compare a resume to a job description and provides insights into how well a resume matches a job description. It calculates a similarity score, identifies missing keywords, and can be very helpful in optimizing a resume according to a particular job role.
 
