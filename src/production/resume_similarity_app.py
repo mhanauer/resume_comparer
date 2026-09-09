@@ -9,7 +9,8 @@ from nltk.corpus import stopwords
 from nltk.probability import FreqDist
 import nltk
 
-nltk.download("punkt")
+# NLTK >= 3.9 replaced the pickled "punkt" model with "punkt_tab"; word_tokenize needs it.
+nltk.download("punkt_tab")
 nltk.download("stopwords")
 model = SentenceTransformer("paraphrase-MiniLM-L6-v2")
 
