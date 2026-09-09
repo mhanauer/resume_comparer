@@ -4,7 +4,7 @@ This Python application is a tool to compare a resume to a job description and p
 Here is a link to the application: https://mhanauer-resume-compa-srcproductionresume-similarity-app-m467hi.streamlit.app/
 
 # Requirements
-Python 3.6 and above
+Python 3.10 (NLTK 3.10 requires 3.10+; the pinned pandas/numpy ship wheels only through 3.10)
 Streamlit
 NLTK
 Sentence-transformers
